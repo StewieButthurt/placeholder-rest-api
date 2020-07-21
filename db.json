@@ -1,49 +1,51 @@
-[
+{
+    "profile": [
 
-    {
-        "id": 1,
-        "username": "Bret",
-        "name": "Leanne",
-        "surname": "Graham",
-        "email": "Sincere@april.biz",
-        "photo_600": "https://via.placeholder.com/600/92c952",
-        "photo_150": "https://via.placeholder.com/150/92c952"
-    },
-    {
-        "id": 2,
-        "username": "Antonette",
-        "name": "Ervin",
-        "surname": "Howell",
-        "email": "Shanna@melissa.tv",
-        "photo_600": "https://via.placeholder.com/600/771796",
-        "photo_150": "https://via.placeholder.com/150/771796"
-    },
-    {
-        "id": 3,
-        "username": "Samantha",
-        "name": "Clementine",
-        "surname": "Bauch",
-        "email": "Nathan@yesenia.net",
-        "photo_600": "https://via.placeholder.com/600/24f355",
-        "photo_150": "https://via.placeholder.com/150/24f355"
-    },
-    {
-        "id": 4,
-        "username": "Karianne",
-        "name": "Patricia",
-        "surname": "Lebsack",
-        "email": "Julianne.OConner@kory.org",
-        "photo_600": "https://via.placeholder.com/600/d32776",
-        "photo_150": "https://via.placeholder.com/150/d32776"
-    },
-    {
-        "id": 5,
-        "username": "Kamren",
-        "name": "Chelsey",
-        "surname": "Dietrich",
-        "email": "Lucio_Hettinger@annie.ca",
-        "photo_600": "https://via.placeholder.com/600/f66b97",
-        "photo_150": "https://via.placeholder.com/150/f66b97"
-    }
+        {
+            "id": 1,
+            "username": "Bret",
+            "name": "Leanne",
+            "surname": "Graham",
+            "email": "Sincere@april.biz",
+            "photo_600": "https://via.placeholder.com/600/92c952",
+            "photo_150": "https://via.placeholder.com/150/92c952"
+        },
+        {
+            "id": 2,
+            "username": "Antonette",
+            "name": "Ervin",
+            "surname": "Howell",
+            "email": "Shanna@melissa.tv",
+            "photo_600": "https://via.placeholder.com/600/771796",
+            "photo_150": "https://via.placeholder.com/150/771796"
+        },
+        {
+            "id": 3,
+            "username": "Samantha",
+            "name": "Clementine",
+            "surname": "Bauch",
+            "email": "Nathan@yesenia.net",
+            "photo_600": "https://via.placeholder.com/600/24f355",
+            "photo_150": "https://via.placeholder.com/150/24f355"
+        },
+        {
+            "id": 4,
+            "username": "Karianne",
+            "name": "Patricia",
+            "surname": "Lebsack",
+            "email": "Julianne.OConner@kory.org",
+            "photo_600": "https://via.placeholder.com/600/d32776",
+            "photo_150": "https://via.placeholder.com/150/d32776"
+        },
+        {
+            "id": 5,
+            "username": "Kamren",
+            "name": "Chelsey",
+            "surname": "Dietrich",
+            "email": "Lucio_Hettinger@annie.ca",
+            "photo_600": "https://via.placeholder.com/600/f66b97",
+            "photo_150": "https://via.placeholder.com/150/f66b97"
+        }
 
-]
+    ]
+}
